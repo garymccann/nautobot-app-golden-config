@@ -1,4 +1,4 @@
-# Nautobot Golden Config
+# Nautobot Golden Config.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nautobot/nautobot-app-golden-config/develop/docs/images/icon-NautobotGoldenConfig.png" class="logo" height="200px">
